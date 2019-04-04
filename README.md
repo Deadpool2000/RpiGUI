@@ -14,3 +14,4 @@ GUI Installer for Raspberry Pi (Raspbian Stretch Lite)
 4) Enable VNC by selecting 'Yes'
 5) Exit & reboot Raspberry Pi
 6) Now Install 'VNC Viewer on Phone/Desktop and connect to Raspberry Pi
+7) For more information,visit-https://www.raspberrypi.org/documentation/remote-access/vnc/
